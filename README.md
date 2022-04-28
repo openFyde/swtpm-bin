@@ -1,3 +1,5 @@
-# swtpm - Software TPM Emulator
+# SWTPM - Software TPM Emulator
 
-A driver for tpm2 emulator, depends on `tpm_vtpm_proxy` kernel module (CONFIG_TCG_VTPM_PROXY).
+SWTPM, a driver for tpm2 emulator, depends on the `tpm_vtpm_proxy` kernel module.
+
+This repository contains only binaries, you can find the source code at https://github.com/stefanberger/swtpm .
